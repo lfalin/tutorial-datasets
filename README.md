@@ -127,3 +127,11 @@ J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Rec
 * Original Source [INI](http://benchmark.ini.rub.de/index.php?section=gtsrb&subsection=news)
 * License: [Citation Requested](http://benchmark.ini.rub.de/index.php?section=gtsrb&subsection=dataset#Citation)
 * [Direct Download]()
+
+### 2019 Census
+
+U.S. Census Bureau (2019). State Population by Characteristics: 2010-2019.
+
+* Original Source [US Census](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-detail.html#par_textimage)
+* License: [Open Data Policy, M-13-13](https://www.census.gov/about/policies/open-gov/open-data.html)
+* [Direct Download](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/asrh/sc-est2019-agesex-civ.csv)
