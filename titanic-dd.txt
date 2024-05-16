@@ -1,0 +1,13 @@
+Titanic Data Column Meanings
+
+Survived: Did the passenger survive? (0 = no, 1 = yes)
+Pclass: The passenger's ticket class. (1 = 1st, 2 = 2nd, 3 = 3rd)
+Name: The passenger's name
+Sex: The passenger's gender
+Age: The passenger's age in years
+SibSp: Count of the passenger's siblings and spouse also aboard.
+Parch: Count of the passenger's parents and children also aboard.
+Ticket: The passenger's ticket number
+Fare: The amount the passenger paid for their ticket.
+Cabin: The passenger's cabin id.
+Embarked: Where the passenger embarked from (C = Cherbourg, S = Southampton, Q = Queenstown)
